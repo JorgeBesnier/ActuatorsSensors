@@ -1,1 +1,1 @@
-# ActuatorsSensors: Most code is NOT by my authority... the purpose of this repository is to learn to use Arduino, NodeMCU, Sensores, etc. Is not for programing from 0.
+# ActuatorsSensors: Most of the code is NOT of my authority... the purpose of this repository is to learn to use Arduino, NodeMCU, Sensores, etc. The purpose it to understand some of the programing but not from scratch.
